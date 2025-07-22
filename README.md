@@ -32,18 +32,6 @@ Welcome in Development Log!<br>Here I share my thoughts, updates, technical deci
 <img src="https://github.com/JustMipe/Multi-purpose-app/blob/main/src/assets/project_structure.png" height="auto" width="450">
 </div>
 
-<div align="center">
-
-### 🚀 Version 0.2 – [13.5.2025]
-</div>
-
-- 🆕 **What's new:** Added UI, Input for User's action and main program loop with calculator module that you can travel between and go back into the main menu or quit program!
-- 📝 **Note:** I'm sharing with you a small gif of how the app works in the terminal.<br>It looks interactive, what do you think? Calculator and its functionality will be next, stay tuned!
-
-<div align="center">
-
-![Demo](https://github.com/JustMipe/Multi-purpose-app/blob/main/src/assets/001.gif)
-</div>
 
 
 
