@@ -1,11 +1,11 @@
 # 🛠️ Development Log | TaskBoard FULL-STACK
 
-Welcome in Development Log!<br>Here I share my thoughts, updates, technical decisions and notes from the development process.
+Here I share my thoughts, updates, technical decisions and notes from the development process.
 
 ---
 
 ## 📌 Overview
-**Title:** TaskBoard FULL-STACK
+**Title:** TaskBoard FULL-STACK<br>
 **Description:** Simple task management app - with user login, list of tasks, add, view and delete tasks etc...<br>
 **Technology:** Rust, SQLite<br>
 **Repository:** [\[Link to repository\]](https://github.com/JustMipe/TaskBoard-full-stack-)
@@ -13,8 +13,8 @@ Welcome in Development Log!<br>Here I share my thoughts, updates, technical deci
 ---
 
 ## 🔍 Project goal
-- [**Origin**] – Project is used to show my experience with Rust, technologies and AI.
-- [**Vision**] – The project will serve as a desktop GUI application that will communication with the server via HTTP API.
+- [**Why**]Project is used to show my experience with Rust, technologies and AI.
+- [**And**]The project will serve as a desktop GUI application that will communication with the server via HTTP API.
 - [**Future**] – I would like to expand it with more features, tweak the details and let it grow with me.<br>I want to achieve a full-fledged safety-focused project.
 
 ---
@@ -25,7 +25,7 @@ Welcome in Development Log!<br>Here I share my thoughts, updates, technical deci
 ### 🚀 Version 0.1 – [22.7.2025]
 </div>
 
-- 🆕 **What's new:** Ready Rust project for the backend, SQLite database setup, A ready-made users table, Dependencies for the web server, Database, Hashing and JWT, The API server is running, Connected to the database, Processed JSON from request, Password is hashed securely, Data is stored in DB,  Response is in JSON format, Register endpoint, We hash the passwords and store them in the database.
+- 🆕 **What's new:** Ready Rust project for the backend, SQLite database setup, A ready-made users table, Dependencies for the web server, Database, Hashing and JWT, The API server is running, Connected to the database, Processed JSON from request, Password is hashed securely, Data is stored in DB,  Response is in JSON format, Register endpoint, We hash the passwords and store them in the database.<br>
 - 📝 **Note:** It was a ride. The server has been created and is working as expected, it is now processing the registration request and creating users in the local database. Stay tuned, there will be more to come!
 
 <div align="center">
