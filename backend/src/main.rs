@@ -45,7 +45,7 @@ async fn register_user(
     .expect("Failed to insert user");
 
     Json(RegisterResponse {
-        message: "Uživatel zaregistrován".to_string(),
+        message: "New User is registered successfully!".to_string(),
     })
 }
 
@@ -62,6 +62,6 @@ async fn main() {
     let addr = SocketAddr::from(([127, 0, 0, 1], 3000));
     let listener = TcpListener::bind(addr).await.unwrap();
 
-    println!("🚀 Server běží na http://{}", addr);
+    println!("Server is running at http://{}", addr);
     serve(listener, app).await.unwrap();
 }
