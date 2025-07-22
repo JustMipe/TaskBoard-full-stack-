@@ -28,6 +28,11 @@ Welcome in Development Log!<br>Here I share my thoughts, updates, technical deci
 - 🆕 **What's new:** Ready Rust project for the backend, SQLite database setup, A ready-made users table, Dependencies for the web server, Database, Hashing and JWT, The API server is running, Connected to the database, Processed JSON from request, Password is hashed securely, Data is stored in DB,  Response is in JSON format, Register endpoint, We hash the passwords and store them in the database.
 - 📝 **Note:** It was a ride. The server has been created and is working as expected, it is now processing the registration request and creating users in the local database. Stay tuned, there will be more to come!
 
+<div align="center">
+
+![Demo](https://github.com/JustMipe/TaskBoard-full-stack-/blob/main/backend/assets/001.gif)
+</div>
+
 ---
 
 ### 🛠️ Work in Progress – [Current state]
